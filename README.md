@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kevin23w/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/kevin23w/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/kevin23w/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kevin23w/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kevin23w/LEETCODE/tree/master/0064-minimum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kevin23w/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
