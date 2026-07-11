@@ -1,9 +1,8 @@
 class Solution:
-    def twoSum(self, nums, target):
-        seen = {}
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        D = {}
         for i , num in enumerate(nums):
-            complete = target - num
-            if complete in seen:
-                return [seen[complete] , i]
-            seen[num] = i
-
+            ans = target - num
+            if ans in D:
+                return [D[ans],i]
+            D[num] = i
