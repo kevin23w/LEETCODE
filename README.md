@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kevin23w/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kevin23w/LEETCODE/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/kevin23w/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/kevin23w/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/kevin23w/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kevin23w/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/kevin23w/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kevin23w/LEETCODE/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/kevin23w/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kevin23w/LEETCODE/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/kevin23w/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kevin23w/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kevin23w/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kevin23w/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
