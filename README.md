@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kevin23w/LEETCODE/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/kevin23w/LEETCODE/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/kevin23w/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kevin23w/LEETCODE/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kevin23w/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kevin23w/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
