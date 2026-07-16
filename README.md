@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kevin23w/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kevin23w/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kevin23w/LEETCODE/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/kevin23w/LEETCODE/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kevin23w/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kevin23w/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kevin23w/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
