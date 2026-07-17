@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kevin23w/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/kevin23w/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin23w/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin23w/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
