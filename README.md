@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin23w/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/kevin23w/LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kevin23w/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin23w/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kevin23w/LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
