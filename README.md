@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kevin23w/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kevin23w/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kevin23w/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/kevin23w/LEETCODE/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/kevin23w/LEETCODE/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/kevin23w/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kevin23w/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kevin23w/LEETCODE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/kevin23w/LEETCODE/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
