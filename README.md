@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kevin23w/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/kevin23w/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/kevin23w/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin23w/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/kevin23w/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kevin23w/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kevin23w/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kevin23w/LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kevin23w/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kevin23w/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kevin23w/LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kevin23w/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kevin23w/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kevin23w/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kevin23w/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/kevin23w/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kevin23w/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kevin23w/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kevin23w/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kevin23w/LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kevin23w/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kevin23w/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
