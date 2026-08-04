@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kevin23w/LEETCODE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kevin23w/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kevin23w/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kevin23w/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kevin23w/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/kevin23w/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin23w/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/kevin23w/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kevin23w/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kevin23w/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kevin23w/LEETCODE/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kevin23w/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kevin23w/LEETCODE/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kevin23w/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kevin23w/LEETCODE/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
