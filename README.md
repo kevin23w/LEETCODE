@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kevin23w/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/kevin23w/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -218,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kevin23w/LEETCODE/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kevin23w/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kevin23w/LEETCODE/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kevin23w/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kevin23w/LEETCODE/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kevin23w/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
