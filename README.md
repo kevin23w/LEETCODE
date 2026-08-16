@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/kevin23w/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/kevin23w/LEETCODE/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin23w/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/kevin23w/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/kevin23w/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kevin23w/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kevin23w/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/kevin23w/LEETCODE/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/kevin23w/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kevin23w/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/kevin23w/LEETCODE/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kevin23w/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kevin23w/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kevin23w/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/kevin23w/LEETCODE/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kevin23w/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/kevin23w/LEETCODE/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
