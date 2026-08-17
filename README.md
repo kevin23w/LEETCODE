@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/kevin23w/LEETCODE/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin23w/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/kevin23w/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/kevin23w/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kevin23w/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kevin23w/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,16 +172,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kevin23w/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kevin23w/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -377,4 +382,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kevin23w/LEETCODE/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kevin23w/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
