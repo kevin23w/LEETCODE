@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kevin23w/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kevin23w/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/kevin23w/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kevin23w/LEETCODE/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kevin23w/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kevin23w/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/kevin23w/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
