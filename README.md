@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kevin23w/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/kevin23w/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kevin23w/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/kevin23w/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kevin23w/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin23w/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kevin23w/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kevin23w/LEETCODE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/kevin23w/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0682-baseball-game](https://github.com/kevin23w/LEETCODE/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/kevin23w/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin23w/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kevin23w/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/kevin23w/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/kevin23w/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/kevin23w/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kevin23w/LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Greedy
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kevin23w/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kevin23w/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kevin23w/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/kevin23w/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/kevin23w/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kevin23w/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kevin23w/LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kevin23w/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/kevin23w/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Quicksort
 |  |
 | ------- |
