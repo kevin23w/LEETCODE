@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kevin23w/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/kevin23w/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kevin23w/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kevin23w/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kevin23w/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/kevin23w/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/kevin23w/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin23w/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kevin23w/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kevin23w/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kevin23w/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/kevin23w/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/kevin23w/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kevin23w/LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kevin23w/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin23w/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kevin23w/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/kevin23w/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/kevin23w/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/kevin23w/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/kevin23w/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kevin23w/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kevin23w/LEETCODE/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/kevin23w/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -468,4 +472,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kevin23w/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kevin23w/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kevin23w/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
