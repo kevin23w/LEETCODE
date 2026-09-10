@@ -505,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kevin23w/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kevin23w/LEETCODE/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
