@@ -1,9 +1,13 @@
 class Solution:
     def twoSum(self, nums, target):
+
         seen = {}
-        for i , n in enumerate(nums):
-            ans = target - n
-            if ans in seen:
-                return [seen[ans],i]
-            seen[n] = i
+
+        for i in range(len(nums)):
+            num = nums[i]
+            val = target - num
+
+            if val in seen:
+                return [seen[val],i]
+            seen[num] = i
         return []
