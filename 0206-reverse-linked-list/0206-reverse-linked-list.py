@@ -8,10 +8,11 @@ class Solution:
         prev = None
         curr = head
 
-        while curr != None:
-            nextt = curr.next
+        while curr:
+            next = curr.next
             curr.next = prev
+
             prev = curr
-            curr = nextt
+            curr = next
 
         return prev
